@@ -1,0 +1,9 @@
+{
+  "server": {
+    "token": {
+      "enable": true,
+      "secret": "XZqBSmdP5WF6h9XumixUmP4NiHeZAhKt",
+      "authorizationHeader": "Authorization"
+    }
+  }
+}
